@@ -4,11 +4,11 @@
 }
 
 #submit {
-    background-color: #b9b8ba;
+    background-color: #ffa200;
     height: 38px;
     width: 38px;
 }
 
 #submit:hover {
-    background-color: #bc9bef;
+    background-color: #f2c900;
 }
